@@ -1,6 +1,6 @@
-package ejercicio4;
+package ej4;
 
-public class Calculos {
+public class Calculos4 {
 
     static double calcular_edalber(double edjuan) {
         double edalber = 2 * (edjuan / 3);
@@ -16,5 +16,4 @@ public class Calculos {
         double edmama = edjuan + edana + edalber;
         return edmama;
     }
-    
 }
